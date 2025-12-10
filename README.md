@@ -49,26 +49,17 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pehlage&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=pehlage&theme=tokyonight&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
+<a href="https://github.com/pehlage">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pehlage&show_icons=true&theme=tokyonight&rank_icon=default"/>
+</a>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pehlage&theme=tokyonight&layout=compact&langs_count=8&hide_border=false"
-    alt="Top Languages"
-  />
-</p>
+<a href="https://github.com/pehlage">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehlage&layout=compact&theme=tokyonight"/>
+</a>
+
+</div>
 
 ---
 
