@@ -50,15 +50,24 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pehlage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pehlage&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pehlage&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=pehlage&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehlage&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pehlage&theme=tokyonight&layout=compact&langs_count=8&hide_border=false"
+    alt="Top Languages"
+  />
 </p>
 
 ---
