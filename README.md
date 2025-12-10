@@ -1,88 +1,82 @@
-<!-- Banner / Título -->
-<h1 align="center">👋 Fala, eu sou o Pedro (Lage)</h1>
+<!-- Banner / Title -->
+<h1 align="center">👋 Hi, I’m Pedro</h1>
 
 <h3 align="center">
-  Dev Fullstack • .NET | C# | SQL | Flutter | Firebase
+  Full-Stack Developer • .NET | C# | SQL | Flutter | Firebase
 </h3>
 
 <p align="center">
   <a href="https://github.com/pehlage">
-    <img src="https://komarev.com/ghpvc/?username=pehlage&label=Profile%20views&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=pehlage&label=Profile%20views&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/pehlage?tab=followers">
-    <img src="https://img.shields.io/github/followers/pehlage?label=Followers&style=flat" alt="followers" />
+    <img src="https://img.shields.io/github/followers/pehlage?label=Followers&style=flat" alt="Followers" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <code>👾 PAC-MAN MODE: ON ···⚪⚪⚪⚪⚪</code>
-</p>
+## About Me
+
+- I’m a **Full-Stack Developer** with a focus on **.NET backend**  
+- Experienced with **C#, ASP.NET, SQL Server, Entity Framework**  
+- Also work with **Flutter** and **REST APIs**  
+- Passionate about **Clean Code, SOLID, and DDD** principles  
+- Always learning and exploring new technologies
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-- 💼 Desenvolvedor **Fullstack** com foco em **backend .NET**  
-- 🧱 Experiência com **C#, ASP.NET, SQL Server, Entity Framework**  
-- 📱 Também trabalho com **Flutter** e **APIs REST**  
-- 📊 Amante de **Clean Code, SOLID e DDD**  
-- 🚀 Sempre buscando evoluir e aprender tecnologias novas
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" height="40" alt="sqlserver"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
 
   <!-- Front / Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pehlage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pehlage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pehlage&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pehlage&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehlage&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehlage&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
-## 🌐 Redes Sociais
+
+## Social Media
 
 <p align="center">
   <a href="https://github.com/pehlage">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-linkedin-here">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-> _"Código limpo hoje é manutenção fácil amanhã."_ ✨
+> _"Clean code today means easier maintenance tomorrow."_ ✨
