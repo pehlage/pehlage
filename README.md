@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I’m Pedro</h1>
 
 <h3 align="center">
-  Full-Stack Developer • .NET | C# | SQL | Flutter | Firebase
+  Full-Stack Developer • .NET | C# | SQL | Js | PostgreSQL 
 </h3>
 
 <p align="center">
