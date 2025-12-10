@@ -69,15 +69,6 @@
 </p>
 
 ---
-
-## 🐍 Jogo da Cobrinha (Contrib Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pehlage/pehlage/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
 ## 🌐 Redes Sociais
 
 <p align="center">
@@ -90,12 +81,6 @@
   <a href="mailto:seu-email@exemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <code>👾 👾 👾 👾 👾 👾 👾</code>
 </p>
 
 ---
