@@ -52,11 +52,11 @@
 <div align="center">
 
 <a href="https://github.com/pehlage">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pehlage&show_icons=true&theme=tokyonight&rank_icon=default"/>
+  <img height="180em" src="https://github-readme-stats-pehlage.vercel.app/api?username=pehlage&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 
 <a href="https://github.com/pehlage">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehlage&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-pehlage.vercel.app/api/top-langs/?username=pehlage&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" />
 </a>
 
 </div>
