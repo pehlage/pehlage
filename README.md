@@ -1,28 +1,36 @@
-<!-- Banner / Title -->
-<h1 align="center">Hi, I’m Pedro</h1>
+<h1 align="center">Hi, I'm Pedro</h1>
 
 <h3 align="center">
-  Full-Stack Developer • .NET | C# | SQL | Js | PostgreSQL 
+  Full Stack Developer • C# / .NET • React • SQL Server & PostgreSQL
 </h3>
 
 <p align="center">
-  <a href="https://github.com/pehlage">
-    <img src="https://komarev.com/ghpvc/?username=pehlage&label=Profile%20views&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/pehlage?tab=followers">
-    <img src="https://img.shields.io/github/followers/pehlage?label=Followers&style=flat" alt="Followers" />
-  </a>
+  Sorocaba, Brazil · Open to remote
 </p>
 
 ---
 
 ## About Me
 
-- I’m a **Full-Stack Developer** with a focus on **.NET backend**  
-- Experienced with **C#, ASP.NET, SQL Server, Entity Framework**  
-- Also work with **Flutter** and **REST APIs**  
-- Passionate about **Clean Code, SOLID, and DDD** principles  
-- Always learning and exploring new technologies
+I build back-end systems that move data between companies: partner integrations, background jobs and REST APIs
+that keep working when the other side is slow, rate-limited or down.
+
+- **Partner integrations:** onboarded ~5 partners, each in 10 days or less, with scheduled syncs (Hangfire) at ~70 req/min and 3-year historical backfills
+- **Performance:** SQL indexing and query rewrites that made critical screens ~4× faster
+- **Modernization:** migrated a legacy API from .NET Core 2.1 to .NET 10
+- **Security:** built a forward proxy with host allowlist and SSRF protection
+- **AI in the workflow:** daily use of AI coding tools, plus an internal knowledge base I built for the team
+
+---
+
+## Featured Project
+
+### [integration-hub](https://github.com/pehlage/integration-hub)
+
+Pulls sales from multiple ERPs with retry, circuit breaker, throttling, idempotent upserts and backfill,
+plus a React dashboard to monitor and control each integration.
+
+`.NET 10` `Hangfire` `Polly` `EF Core` `PostgreSQL` `React` `TypeScript` `Docker` `xUnit` `GitHub Actions`
 
 ---
 
@@ -31,44 +39,27 @@
 <p align="left">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 
-  <!-- Front / Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <!-- Infra / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/pehlage">
-  <img height="180em" src="https://github-readme-stats-pehlage.vercel.app/api?username=pehlage&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/pehlage">
-  <img height="180em" src="https://github-readme-stats-pehlage.vercel.app/api/top-langs/?username=pehlage&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" />
-</a>
-
-</div>
+**Also:** Entity Framework · Hangfire · Bitbucket Pipelines · xUnit
 
 ---
 
-## Social Media
+## Contact
 
 <p align="center">
-  <a href="https://github.com/pehlage">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/pedro-lagemann">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -76,7 +67,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-> _"Clean code today means easier maintenance tomorrow."_
